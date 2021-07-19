@@ -13,15 +13,15 @@
         "whatIsThisQ": "What is this?"
     },
     "add-clinic": {
-        "additionalInfo": "Additional information (Optional)",
-        "city": "City",
-        "clinicName": "Clinic name",
+        "additionalInfo": "Нэмэлт мэдээлэл (Optional)",
+        "city": "Хот",
+        "clinicName": "Эмнэлгийн нэр",
         "fillForm": "Fill out this form to add a new clinic to the database that has a cancellation waiting list.",
-        "prefecture": "Prefecture",
-        "no": "No",
+        "prefecture": "Муж",
+        "no": "Үгүй",
         "note": "Share helpful or important details",
         "reviewMessage": "The clinic you submitted will be displayed after it's been reviewed!",
-        "romajiOnly": "Romaji only",
+        "romajiOnly": "Зөвхөн латин үсгээр",
         "submitClinic": "Submit Clinic",
         "validations": {
             "city": {
@@ -77,12 +77,12 @@
             "title": "Report this data"
         },
         "voucher": {
-            "required": "Required",
-            "notRequired": "Not Required"
+            "required": "Шаардлагатай",
+            "notRequired": "Шаардлагагүй"
         },
         "wardResidency": {
-            "required": "Required",
-            "notRequired": "Not Required"
+            "required": "Шаардлагатай",
+            "notRequired": "Шаардлагагүй"
         },
         "search": "Search by Location or Clinic Name"
     },
@@ -90,21 +90,21 @@
         "dialog": "Are you sure you want to delete ID: {0}"
     },
     "error": {
-        "homePage": "Home page",
-        "notFound": "404 Not Found",
-        "otherError": "An error occurred"
+        "homePage": "Нүүр хуудас",
+        "notFound": "Таны хайсан хуудас олдсонгүй",
+        "otherError": "Алдаа гарлаа"
     },
     "footer": {
-        "donate": "Donate",
+        "donate": "Хандив",
         "github": "GitHub",
         "kofi": "Buy me a Ko-Fi",
         "netlify": "Powered by Netlify",
         "siteTitle": "Findadoc Japan {0}"
     },
     "general": {
-        "approve": "Approve",
-        "cancel": "Cancel",
-        "delete": "Delete"
+        "approve": "Зөвшөөрөх",
+        "cancel": "Цуцлах",
+        "delete": "Устгах"
     },
     "index": {
         "massSite": "Anyone 18 years or older that has a voucher can now get vaccinated at the Tokyo or Osaka mass vaccination sites.",
@@ -114,34 +114,34 @@
         "title": "COVID-19 Vaccination Cancellation Waiting Lists in Japan"
     },
     "login": {
-        "adminLogin": "Admin Login",
+        "adminLogin": "Админ нэвтрэх",
         "clear": "Clear",
         "email": "Email",
-        "login": "Login",
-        "password": "Password"
+        "login": "Нэвтрэх",
+        "password": "Нууц үг"
     },
     "logout": {
         "message": "Logging you out...",
         "successMessage": "You've been logged out. See ya!"
     },
     "message": {
-        "disclaimerAlert" : "The only vaccines being administered in Japan are Moderna and Pfizer. Be wary of clinics offering SinoVac or others. The content on this site is user generated and while we do our best to moderate it, it may contain errors or unverified content. <br /><br /> We are not liable for inaccurate information that may be contained in the community submissions, and we are not liable for third-party sites. Use your best judgment and please report any submissions you think may be fraudulent.",
-        "shinYokohamaAlert" : "<h2>NEWS</h2><br /><b>Shin-Yokohama</b> vaccine slots available from <b>July 16th</b> for voucher holders. Ward residency not required!",
-        "shinYokohamaBookVaccine" : "Book Vaccine"
+        "disclaimerAlert" : "Япон улсад албан ёсоор зөвхөн Модэрна болон Пфайзер вакцинууд хийгдэж буй юм. Синовак болон бусад вакцинуудыг санал болгож буй эмнэлгүүдээс болгоомжлоорой. Энэ вэб хуудсанд агуулагдаж буй мэдээллүдийг тухайн эмнэлгээр үйлчлүүлэгчид өөрсдөө үүсгэдэг ба хэдийгээр бид улам сайжруулахаар ажиллаж буй ч зарим алдаа байж болзошгүйг анхаарна уу. <br /><br /> 3-дагч сайтууд болон нийтэд зарлагдсан эдгээр мэдээлэлд агуулагдаж байж болзошгүй буруу мэдээлэлд бид хариуцлага хүлээхгүй бөгөөд та мэдээлэлд өөрийн дүгнэлтээ хийн, аливаа залилан мэхэлж болзошгүй гэж үзсэн материалаа бидэнд мэдээлж өгөхийг хүсье.",
+        "shinYokohamaAlert" : "<h2>Шинэ мэдээ</h2><br /><b>Shin-Yokohama</b> вакцины ваучертай хүмүүст <b>7 сарын 16</b> вакцинжуулалтанд хамрагдах боломжтой. Та тухайн дүүрэгт амьдардаг байх шаардлагагүй!",
+        "shinYokohamaBookVaccine" : "Вакцин захиалах"
     },
     "pending": {
-        "edit": "Edit Submission",
-        "title": "Pending Submissions"
+        "edit": "Захиалга засварлах",
+        "title": "Түр хүлээнэ үү"
     },
     "toolbar": {
-        "about": "About",
-        "addClinic": "add a clinic",
+        "about": "Тухай",
+        "addClinic": "Эмнэлэг нэмэх",
         "adminDashboard": "Admin Dashboard",
         "github": "GitHub",
-        "home": "Home",
-        "languages": "Languages",
-        "login": "Login",
-        "logout": "Logout",
+        "home": "Нүүр хуудас",
+        "languages": "Гадаад хэл",
+        "login": "Нэвтрэх",
+        "logout": "Гарах",
         "title": "Find a Doc, JAPAN"
     }
 }
